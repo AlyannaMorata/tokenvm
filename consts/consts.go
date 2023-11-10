@@ -17,7 +17,7 @@ const (
 	// TODO: choose a name for your hyperchain
 	Name = "AlyannaCoin"
 	// TODO: choose a token symbol
-	Symbol = "ALY"
+	Symbol = "ALYCOIN"
 )
 
 var ID ids.ID
